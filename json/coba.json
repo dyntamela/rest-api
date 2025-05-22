@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Syafrilla Diantamela",
+        "umur": 21,
+        "nip": "2217020141",
+        "lulus": true,
+        "hobby": [
+            "reading",
+            "coding"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Doddy Ferdiansyah",
+            "pembimbing2": "Erik Doank"
+        }
+    },
+    {
+        "nama": "Syafrilla Diantamela",
+        "umur": 21,
+        "nip": "2217020141",
+        "lulus": true,
+        "hobby": [
+            "reading",
+            "coding"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Doddy Ferdiansyah",
+            "pembimbing2": "Erik Doank"
+        }
+    }
+]
